@@ -1,4 +1,4 @@
-# define varaibles and ami id for lsited below #
+# define varaibles and ami id for listed below example #
 variable "instance_type" {
     description = "EC2 instance type"
      type = string
